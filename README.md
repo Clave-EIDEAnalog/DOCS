@@ -8,4 +8,4 @@ EIDEAnalog_MAKING_OF_v00.pdf
 
 
 
-[MAKING_OF_PORTADA.pdf](https://github.com/Clave-EIDEAnalog/DOCS/files/4856903/MAKING_OF_PORTADA.pdf)
+![alt text](https://github.com/Clave-EIDEAnalog/DOCS/files/4856903/MAKING_OF_PORTADA.pdf)
