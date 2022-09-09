@@ -1,4 +1,7 @@
 # DOCS
+
+EIDEAnalog_MAKING_OF_v00 complete (chapters 1 - 8) version to be published next week!!
+
 EIDEAnalog documentation
 This repository holds the documents of EIDEAnalog. Namelly:
 
